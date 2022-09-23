@@ -30,7 +30,7 @@ Lista ordenada
 ```
 [link](https://wwww.google.com)""titulo opcional""
 
-![leomessi][https://github.com/100007821/RepositorioDePrueba/blob/main/leomessi.png)
+![leomessi](https://github.com/100007821/RepositorioDePrueba/blob/main/leomessi.png)
 
 | Titulo | Titulo 2 | Titulo 3 |
 |--------|:---------:|---------:|
